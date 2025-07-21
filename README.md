@@ -6,7 +6,7 @@ While these projects are not actively maintained, they represent formative stage
 
 ---
 
-## 📦 Contents
+## Contents
 
 Each project is contained in its own subdirectory and includes:
 
@@ -16,7 +16,7 @@ Each project is contained in its own subdirectory and includes:
 
 ---
 
-## 🧠 Purpose
+## Purpose
 
 Legacy projects provide context for my development as a computer scientist and allow others to trace the progression from early experimentation to focused research.
 
