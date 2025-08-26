@@ -18,7 +18,7 @@ Each project is contained in its own subdirectory and includes:
 
 ## Purpose
 
-Legacy projects provide context for my development as a computer scientist and allow others to trace the progression from early experimentation to focused research.
+These legacy projects trace my development as a computer scientist, showcasing the progression from my early experiments in game development to my current focus on robotics.
 
 They are also preserved for future reference, inspiration, or possible reactivation in new forms.
 
